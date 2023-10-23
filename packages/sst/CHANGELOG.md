@@ -1,5 +1,11 @@
 # @serverless-stack/cli2
 
+## 2.29.0
+
+### Minor Changes
+
+- [`88bfd6c`](https://github.com/sst/sst/commit/88bfd6c480e63d28087ddc6d5f7f60dac74bd16f) Thanks [@justin-canopy](https://github.com/justin-canopy)! - Adds support for bypassing docker build for python (via an optional flag), and moves python file-copy processes to a place that can be async.
+
 ## 2.28.1
 
 ### Patch Changes

@@ -1,5 +1,7 @@
 # astro-sst
 
+## 2.29.0
+
 ## 2.28.1
 
 ### Patch Changes
