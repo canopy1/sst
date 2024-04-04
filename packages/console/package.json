@@ -43,7 +43,7 @@
     "deep-object-diff": "^1.1.7",
     "dendriform-immer-patch-optimiser": "^2.1.0",
     "file-saver": "^2.0.5",
-    "immer": "9",
+    "immer": "10",
     "jotai": "^1.4.7",
     "react": "^17.0.2",
     "react-ace": "^9.5.0",
@@ -65,7 +65,7 @@
     "@types/react": "^17.0.33",
     "@types/react-dom": "^17.0.10",
     "@vitejs/plugin-react": "^1.0.7",
-    "vite": "^2.7.0",
+    "vite": "^5.2.8",
     "vite-plugin-sentry": "1.0.14"
   }
 }
